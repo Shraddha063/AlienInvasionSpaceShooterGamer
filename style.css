@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #000; /* Space theme */
+}
+
+#gameCanvas {
+    display: block;
+    margin: 0 auto;
+    background: url('space.gif') no-repeat center center;
+    background-size: cover;
+} 
+
+#restartButton{
+    margin-top: 500;
+    margin-left: auto;
+    color: darkcyan;
+}
